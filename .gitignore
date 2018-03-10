@@ -1,0 +1,12 @@
+.idea/
+__pycache__/*
+*.py[cod]
+*.db
+.DS_Store
+.coverage
+.~*
+manage.py
+*.swp
+*.sqlite3
+*~
+*.log
