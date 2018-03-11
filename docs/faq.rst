@@ -2,7 +2,7 @@ Frequently Asked Questions
 ==========================
 
 How do I add a document to FluxDoc?
-   #. Try to convert your document into plain text. Where formatting is essential, use sphinx.
+   #. Try to convert your document into plain text. Where formatting is essential, use `restructured text <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_.
    #. For images or video, you can add the files and link them in the plain text.
    #. If you have any problems or difficulty `add an issue <https://github.com/pwhipp/fluxdoc/issues>`_ describing your problem.
 
