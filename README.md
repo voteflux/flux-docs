@@ -1,4 +1,6 @@
-The documentation is [here](http://fluxdoc.readthedocs.io/en/latest/index.html).
+![docs-build-passing-badge](https://readthedocs.org/projects/flux-party/badge/?version=latest)
+
+The documentation is [here](https://docs.flux.party/en/latest/).
 
 To work with this documentation locally, clone the repo.
 
