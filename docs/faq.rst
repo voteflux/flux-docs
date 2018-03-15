@@ -22,7 +22,12 @@ How do I change a document or the structure of the documents?
       - `Sphinx`_
 
 How do I publish a document change to the website?
-   You don't have to. Commits to the master branch on the main repository are automatically published. This process may take a few minutes.
+   You don't have to. Accepted pull requests and commits to the master branch on the main repository are automatically published. This process may take a few minutes.
+
+How do I convert a formatted document into restructured text?
+   `pandoc <https://pandoc.org/try/>`_ converts many formats into restructured text. Some manual tweaking may be required.
+   If there are images or related files, these can be copied into the local document folder so that they are included in the repository.
+   If there are a lot of associated images, it is best to replace the document with a folder and place the original document content in ``index.rst`` within the folder and add the images to the folder.
 
 .. _Sphinx: http://sphinx-doc.org/tutorial.html
 .. _Git: https://try.github.io/levels/1/challenges/1
