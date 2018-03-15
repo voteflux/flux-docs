@@ -1,5 +1,5 @@
-The Flux Party Queensland - Constitution
-========================================
+QLD Constitution
+================
 
 Introduction
 ------------

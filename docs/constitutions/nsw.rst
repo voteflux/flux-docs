@@ -1,5 +1,5 @@
-Flux Party (NSW) - Constitution
-===============================
+NSW Constitution
+================
 
 Introduction
 ------------

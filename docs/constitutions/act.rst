@@ -1,5 +1,5 @@
-The Flux Party — ACT Constitution
-=================================
+ACT Constitution
+================
 
 Introduction
 ------------

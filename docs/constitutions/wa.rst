@@ -1,5 +1,5 @@
-The Flux Party — WA Constitution
-================================
+WA Constitution
+===============
 
 Introduction
 ------------
