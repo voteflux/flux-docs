@@ -12,6 +12,7 @@ It is
    :maxdepth: 2
    :caption: Contents:
 
+   docs/flux_internal_structure
    docs/constitutions/index
    docs/policies/index
    docs/flux_technical_roadmap
