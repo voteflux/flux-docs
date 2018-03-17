@@ -25,6 +25,3 @@ It is
    docs/contributing/index
    docs/faq
    docs/glossary
-
-
-* :ref:`genindex`
