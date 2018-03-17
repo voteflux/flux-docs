@@ -11,3 +11,4 @@ Constitutions
    nsw
    qld
    wa
+   flux_foundation_constitution
