@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'FluxDoc'
-copyright = '2018, Paul Whipp'
-author = 'Paul Whipp'
+copyright = '2018, The Flux Foundation Limited'
+author = 'The Flux Foundation Limited'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
