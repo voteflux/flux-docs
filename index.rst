@@ -1,6 +1,12 @@
 FluxDoc: Document Repository
 ============================
 
+.. warning::
+
+   **Work In Progress**
+
+   `In discussion here <https://fluxvolunteers.slack.com/messages/C9LGQ0XLH/convo/C1BH0R59T-1520551600.000406/>`_
+
 It is
 -----
 
