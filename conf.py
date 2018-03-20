@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'FluxDoc'
-copyright = '2018, Paul Whipp'
-author = 'Paul Whipp'
+copyright = '2018, Flux Docs Authors'
+author = 'Flux Docs Authors, Paul Whipp'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -144,7 +144,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'fluxdoc.tex', 'Flux Documentation',
-     'Paul Whipp', 'manual'),
+     'Flux Docs Authors', 'manual'),
 ]
 
 
@@ -165,6 +165,6 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'fluxdoc', 'Flux Documentation',
-     author, 'Paul Whipp', 'The book of Flux.',
+     author, 'Flux Docs Authors, Paul Whipp', 'The book of Flux.',
      'Miscellaneous'),
 ]
