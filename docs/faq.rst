@@ -1,10 +1,14 @@
 Frequently Asked Questions
 ==========================
 
+How do I raise an issue with the documentation?
+   If there is an error or something missing, please raise an issue so that we can fix it.
+   The documentation is maintained `here in github <https://github.com/voteflux/flux-docs>`_ . Its current issues are listed `here <https://github.com/voteflux/flux-docs/issues>`_. If the issue you've found is not already listed, you can follow `this guide <https://help.github.com/articles/creating-an-issue/>`_ to raise a new issue.
+
 How do I add a document to FluxDoc?
    #. Try to convert your document into plain text. Where formatting is essential, use `restructured text <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_.
    #. For images or video, you can add the files and link them in the plain text.
-   #. If you have any problems or difficulty `add an issue <https://github.com/pwhipp/fluxdoc/issues>`_ describing your problem.
+   #. If you have any problems or difficulty `add an issue <https://github.com/voteflux/flux-docs/issues>`_ describing your problem.
 
    .. warning::
 
