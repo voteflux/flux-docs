@@ -20,6 +20,7 @@ It is
 
    docs/flux_internal_structure
    docs/constitutions/index
+   docs/member-guide/index
    docs/policies/index
    docs/flux_technical_roadmap
    docs/contributing/index
