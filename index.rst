@@ -15,7 +15,7 @@ It is
 * a git repository containing the full history of the documents and the changes made to them
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    docs/flux_internal_structure
@@ -23,5 +23,5 @@ It is
    docs/policies/index
    docs/flux_technical_roadmap
    docs/contributing/index
-   docs/faq
+   docs/faq/index
    docs/glossary
