@@ -112,7 +112,7 @@ The primary function of the finance and fundraising working group is;
 
 
 Additional Information
-======================
+----------------------
 
 Create an easy image to show all committees once the active members have
 all had a say.
