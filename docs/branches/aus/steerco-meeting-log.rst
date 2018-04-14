@@ -3,5 +3,5 @@
 
 * 2018-04-14
 
-  * Slides/Minues:
+  * `Slides/Minues </pdf/branches/aus/steerco/some-pdf-name>`_
   * Video report:
