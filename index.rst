@@ -22,7 +22,7 @@ It is
    docs/constitutions/index
    docs/member-guide/index
    docs/policies/index
-   docs/flux_technical_roadmap
+   docs/tech/index
    docs/contributing/index
    docs/faq/index
    docs/glossary
