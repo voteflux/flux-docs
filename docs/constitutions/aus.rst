@@ -1,6 +1,11 @@
 /AUS Constitution
 =================
 
+.. warning::
+   This document is a reproduction and not the canonical version.
+   It may be different or out of date. For the canonical version please
+   see `this GitHub repository <https://github.com/voteflux/flux/>`_.
+
 Introduction
 ------------
 
@@ -231,14 +236,49 @@ of the Leadership. Members may opt-out of helping to form the state
 branch or party if they wish.
 
 State and Territory branches may use the name “Flux” and associated
-branding elements when they have been created as a subsection here:
+branding elements when they have been created as a subsection here, as
+is the case with ``ACT Branch`` below.
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-   :caption: State Constitutions:
+NSW State Party
+~~~~~~~~~~~~~~~
 
-   aus-*
+The Flux NSW State Party is to be established with the constitution
+contained in the ``CONSTITUTION.NSW.md`` document in the root of this
+repository. This constitution can be found at:
+https://github.com/voteflux/flux/blob/master/CONSTITUTION.NSW.md
+
+WA State Party
+~~~~~~~~~~~~~~
+
+The Flux WA State Party is to be established with the constitution
+contained in the ``CONSTITUTION.WA.md`` document in the root of this
+repository. This constitution can be found at:
+https://github.com/voteflux/flux/blob/master/CONSTITUTION.WA.md
+
+QLD State Party
+~~~~~~~~~~~~~~~
+
+The Flux QLD State Party is to be established with the constitution
+contained in the ``CONSTITUTION.QLD.md`` document in the root of this
+repository. This constitution can be found at:
+https://github.com/voteflux/flux/blob/master/CONSTITUTION.QLD.md
+
+ACT Branch
+~~~~~~~~~~
+
+The ACT branch of the Flux party is to be established with the
+constitution contained in the ``CONSTITUTION.ACT.md`` document in the
+root of this repository. This constitution can be found at:
+https://github.com/voteflux/flux/blob/master/CONSTITUTION.ACT.md
+
+``CONSTITUTION.ACT.md`` is accepted and ratified as the opening
+constitution of Flux ACT as defined in commit
+``c37c68126e3c9d354d8bb66496d8efd6d9b35caa`` which is verified (and
+provided) at the following URL:
+https://github.com/voteflux/flux/blob/c37c68126e3c9d354d8bb66496d8efd6d9b35caa/CONSTITUTION.ACT.md
+(note the commit hash - the long string of randomish letters and numbers
+- matches the commit hash in the URL, indicating the document is correct
+and not tampered with).
 
 Internal Voting System
 ----------------------

@@ -8,4 +8,4 @@ QLD
 
    status
    policies
-   constitution
+   ../../constitutions/aus-qld

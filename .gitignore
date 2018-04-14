@@ -10,3 +10,5 @@ manage.py
 *.sqlite3
 *~
 *.log
+docs/constitutions/*.md
+.vscode

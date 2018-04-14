@@ -1,6 +1,10 @@
 Flux Internal Structure
 =======================
 
+.. warning::
+
+   **This file is a draft and has not been ratified by any branch or the foundation**
+
 Flux SteerCo
 ------------
 

@@ -1,5 +1,5 @@
 Branches
-=======
+========
 
 
 .. toctree::
@@ -8,8 +8,3 @@ Branches
    :caption: Contents:
 
    */index
-   foundation/index
-   act
-   nsw
-   qld/index
-   wa
