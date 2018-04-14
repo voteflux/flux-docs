@@ -1,4 +1,4 @@
-Flux Constitution
+/AUS Constitution
 =================
 
 Introduction
@@ -233,15 +233,12 @@ branch or party if they wish.
 State and Territory branches may use the name “Flux” and associated
 branding elements when they have been created as a subsection here:
 
-
 .. toctree::
    :maxdepth: 1
+   :glob:
    :caption: State Constitutions:
 
-   act
-   nsw
-   qld
-   wa
+   aus-*
 
 Internal Voting System
 ----------------------
