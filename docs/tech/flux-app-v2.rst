@@ -213,6 +213,9 @@ Current integrations are with:
   super useful because
   then we don't have to run it on the main server, which has lead to problems before due to phantomjs memory and
   cpu usage)
+* Paypal - we get notifications when ppl send us money, but they've been crap replying to our support emails
+  (as we're locked out atm) and they went and changed their donation page so it's not possible to require
+  an address anymore - this unfortunately gives an error 500 on the backend atm
 
 Things we might want to integrate with in future
 
