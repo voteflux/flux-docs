@@ -6,4 +6,4 @@ NSW Branch (Australia)
    :maxdepth: 1
 
    *
-   ../constitutions/aus-nsw
+   ../../constitutions/aus-nsw
