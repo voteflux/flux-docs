@@ -1,5 +1,5 @@
-Constitutions
-=============
+Foundation
+==========
 
 
 .. toctree::
@@ -7,8 +7,5 @@ Constitutions
    :caption: Contents:
 
    constitution
-   act
-   nsw
-   qld
-   wa
+   flux_internal_structure
    flux_foundation_constitution

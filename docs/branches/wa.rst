@@ -1,5 +1,8 @@
-WA Constitution
-===============
+WA
+==
+
+Constitution
+++++++++++++
 
 Introduction
 ------------

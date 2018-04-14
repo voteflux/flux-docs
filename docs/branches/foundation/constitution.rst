@@ -238,10 +238,10 @@ branding elements when they have been created as a subsection here:
    :maxdepth: 1
    :caption: State Constitutions:
 
-   act
-   nsw
-   qld
-   wa
+   ../act
+   ../nsw
+   ../qld/index
+   ../wa
 
 Internal Voting System
 ----------------------

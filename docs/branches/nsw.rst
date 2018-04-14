@@ -1,5 +1,8 @@
-NSW Constitution
-================
+NSW
+===
+
+Constitution
+++++++++++++
 
 Introduction
 ------------

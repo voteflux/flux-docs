@@ -1,5 +1,8 @@
-ACT Constitution
-================
+ACT
+===
+
+Constitution
+++++++++++++
 
 Introduction
 ------------

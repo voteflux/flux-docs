@@ -18,8 +18,7 @@ It is
    :maxdepth: 1
    :caption: Contents:
 
-   docs/flux_internal_structure
-   docs/constitutions/index
+   docs/branches/index
    docs/member-guide/index
    docs/policies/index
    docs/tech/index
