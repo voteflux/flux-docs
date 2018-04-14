@@ -170,3 +170,10 @@ texinfo_documents = [
      author, 'Flux Docs Authors, Paul Whipp', 'The book of Flux.',
      'Miscellaneous'),
 ]
+
+
+def setup(app):
+    import os
+    if os.environ.get("READTHEDOCS") is not None:
+        import subprocess
+        subprocess.call(['make', 'get-constitutions'])
