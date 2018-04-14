@@ -1,5 +1,5 @@
-Policies
-========
+Status
+======
 
 .. warning::
 
