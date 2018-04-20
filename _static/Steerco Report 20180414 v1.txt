@@ -1,0 +1,158 @@
+Flux National Steerco
+Meeting Report - 14 April 2018
+
+Steerco Meeting #0
+Agenda
+Call to order & welcome
+Opening words - Nathan & Max
+Introductions
+Objectives of Steerco
+Working Groups
+Local Branches (State / Federal)
+Priorities
+Attendees / Role
+Nathan Spataro - Leader (NS)
+Max Kaye - Deputy Leader (MK)
+Daithí Ó Gliasáin - Chair (DG)
+Riley Kinnunen - Secretary (RK)
+Ben Rushton - Treasurer (BR)
+Alison Brewer - Steerco member (AB)
+Rhys Alconly-Jones - Steerco member (RA)
+
+Introductions
+Max Kaye
+Deputy Leader
+
+Riley Kinnunen
+Secretary
+
+Alison Brewer
+Steerco Member
+
+Nathan Spataro
+Leader
+
+Daithí Ó Gliasáin
+Chair
+
+Ben Rushton
+Treasurer
+
+Rhys Aconley- Jones
+Steerco Member
+
+Objectives of Steerco
+Accountability
+Holding ourselves to account to get things done
+Alignment
+Cooperate effectively across the nation
+Communication & coordination
+Develop & share the big picture
+Strategic guidance
+Holistic vision / tangible outcomes / focused application
+Decision-making
+Transparent & accountable decisions as required
+
+Strategic Objectives
+Make IBDD Famous
+Enhance Flux as an Organisation
+Develop the membership base
+Compete in Election Campaigns
+
+Actions
+Next meeting: Flux National Steerco Kick-off Official - May 6th 2018
+#
+Description
+Due
+Assigned to
+1
+Strategy document & Steerco Comms
+Next steerco meeting
+DG
+2
+Working Groups
+RK
+3
+State Branch Representatives for Steerco
+NS
+4
+Organisation technology
+MK
+5
+Governance
+NS / RA
+6
+Finances / fundraising / platforms / structure
+BR / RK / MK
+
+Appendix
+Introductions
+Strategy draft
+
+Introductions
+Max Kaye
+Deputy Leader
+
+
+Max is passionate about improving the world. He is a software developer and blockchain consultant. His educational background is in science, mathematics, and information systems, and has a lifelong interest in economics, political philosophy, disruptive startups, and theory of knowledge.
+Max sees immense scope for technology to empower ordinary people to properly participate in their democracy. He knows there's a better way of doing things. He prefers to use the oxford comma.
+Nathan Spataro
+Leader
+
+
+Nathan is an ardent and outspoken proponent of free speech, civil liberties, and human rights. His educational background is in government, international relations, and philosophy. He has campaigned in previous elections for minor parties.
+Nathan's work background is in sales and IT, but has more recently become passionate about blockchain technology and its impact on the future of politics. Nathan believes in a free and open society that places a high value on healthy criticism and debate. He is excited that ordinary Australians could one day play a much greater part in their country’s political future.
+
+Introductions
+Riley Kinnunen
+Secretary
+
+
+Riley joined Flux in July 2017 after spending some time considering the possibilities of new democratic forms given modern technology.  She has a background in political philosophy with a focus on democratic foundations.  
+Riley initiated the Flux Queensland branch and, with the Qld Steer Co, registered the party in December 2017.  Her strengths include policy, procedure and process development with due consideration for the fiduciary duties of the party.  
+Her intellectual interest involves collaborating on the design of the Flux liquid democracy platform, formalizing the Flux Wiki and facilitating academic criticism. 
+
+Daithí Ó Gliasáin
+Chair
+
+
+Daithí managed the Flux WA state campaign in 2017, having previously worked on political campaigns in Ireland & Australia. 
+He works as a consultant advising organisations on strategy, culture, and technology implementation.
+He is passionate about good governance and enhancing the conversation on issues in society.
+He is most interested in helping Flux sustainably scale for the long road ahead.
+
+Introductions
+Alison Brewer
+Steerco Member
+
+
+Alison developed her career and skills within the Public Service (Dept. of Justice & Dept. of Education in WA), and working in a research capacity for Edith Cowan University.
+She has a degree in psychology and a minor in management, and places a strong emphasis on critical thinking. She believes in using a diplomatic and friendly approach that results in effective communication. Although she does admit to being randomly distracted by shiny things.
+"Based on my career experience, complemented by my areas of study, I believe I can make a valuable contribution to the promotion of autonomy, purpose and expertise as a means to deliver excellent policy. I can think of nothing more inspiring than the opportunity to ‘dismantle political apathy, by empowering the disenfranchised, and motivating a new generation of innovative Australians to take responsibility for their society’ (from Flux Vision and Purpose).
+Ben Rushton
+Treasurer
+
+
+Ben’s three biggest interests in life are Skiing, Music and Democracy.
+As a CPA Accountant, he is well versed in defending the profession's 'boring' reputation. Ben counters that accounting doesn't have to be boring if you are accounting for organisations and causes that you are passionate about.
+In that way, he has applied his skillset to working with a Ski Resort, Music Companies and other Community Organisations.
+He looks forward to assisting Flux not only with its compliance obligations, but also in achieving its strategic objectives. In the same way a blockchain offers opportunities to upgrade democracy, he is excited by the opportunities technology and the rise of public APIs offer the sphere of accounting.
+For better or worse, he has been known to advance the argument that Dumb & Dumber is the greatest movie of all time.
+.
+
+Introductions
+Rhys Aconley- Jones
+Steerco Member
+
+
+Rhys is an accredited mediator with a background in law and a focus on quality relationships. He is passionate about interpersonal justice and strengthening the ties that bind us through deliberative and inclusive processes. 
+He has recently returned from remote Central Australia, where he was coordinating an indigenous mediation and justice program, and is currently working with organisations to communicate more effectively across all levels of decision-making. 
+Rhys has held positions as a researcher and academic, as well as a grass-roots community facilitator, and is excited to be working towards the realisation of Issues Based Direct Democracy. 
+
+Strategy draft
+
+docs.flux.party
+
+
+
+voteflux.org
