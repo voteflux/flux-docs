@@ -1,8 +1,10 @@
-WA
-==
+/AUS/WA Constitution
+====================
 
-Constitution
-++++++++++++
+.. warning::
+   This document is a reproduction and not the canonical version.
+   It may be different or out of date. For the canonical version please
+   see `this GitHub repository <https://github.com/voteflux/flux/>`_.
 
 Introduction
 ------------

@@ -4,10 +4,7 @@ Branches
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
 
-   foundation/index
-   act
-   nsw
-   qld/index
-   wa
+   */index

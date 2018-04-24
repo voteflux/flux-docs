@@ -40,8 +40,10 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-# source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
+source_parsers = {
+   '.md': 'recommonmark.parser.CommonMarkParser',
+}
 
 # The master toctree document.
 master_doc = 'index'
@@ -70,7 +72,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '**/README.md', 'README.md']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -168,3 +170,10 @@ texinfo_documents = [
      author, 'Flux Docs Authors, Paul Whipp', 'The book of Flux.',
      'Miscellaneous'),
 ]
+
+
+def setup(app):
+    import os
+    if os.environ.get("READTHEDOCS") is not None:
+        import subprocess
+        subprocess.call(['make', 'get-constitutions'])

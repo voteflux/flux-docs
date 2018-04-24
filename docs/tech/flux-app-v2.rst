@@ -74,7 +74,7 @@ the UI easily (using CI and then auto-host it. note: we do this now), and also m
 contributors.
 
 It's important to create something that's modular enough we can extend it without worrying about breaking other
-things, but also robust enough to go the distance. Ideally we should be doing _as much as possible_ through the
+things, but also robust enough to go the distance. Ideally we should be doing *as much as possible* through the
 UI. This allows us to maximise automation and reuse of common functions (instead of managing things in
 spreadsheets or whatever).
 
