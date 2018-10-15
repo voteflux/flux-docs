@@ -23,6 +23,7 @@ It is
    docs/flux_internal_structure
    docs/constitutions/index
    docs/member-guide/index
+   docs/parliament/index
    docs/policies/index
    docs/tech/index
    docs/contributing/index

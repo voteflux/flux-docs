@@ -9,15 +9,15 @@
 Introduction
 ------------
 
-This is the constitution for the Queensland political party named “The
-Flux Party Queensland”, sometimes referred to as “Flux QLD” or “The
-Party” in this document.
+This is the constitution for the Queensland political party named "The
+Flux Party Queensland", sometimes referred to as "Flux QLD" or "The
+Party" in this document.
 
 The registered abbreviation for the party at the time of registration is
 “Flux QLD”. Flux QLD is a state party associated with the federal party
-“VOTEFLUX.ORG \| Upgrade Democracy!” with the abbreviation “Flux”.
+"VOTEFLUX.ORG \| Upgrade Democracy!" with the abbreviation "Flux".
 
-The term “Flux AUS” is used to refer to the federal Flux Party, not the
+The term "Flux AUS" is used to refer to the federal Flux Party, not the
 state party.
 
 The Flux Party Queensland (Flux QLD) is hereby established as an
@@ -35,7 +35,7 @@ party to the federal Flux party, and this is indicated in this document.
 
 **This document is ratified when the federal Flux constitution is
 updated to reflect this fact.** This will be recorded under the section
-titled “State and Territory Branches”. At the time of writing this link
+titled "State and Territory Branches". At the time of writing this link
 will take an observer to said ratification:
 https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#state-and-territory-branches
 
@@ -67,7 +67,7 @@ Associated Entities
 
 The Flux Party Queensland is associated with THE FLUX FOUNDATION LIMITED
 (the Company) (ACN: 617 344 304). Foundation directors are the
-“members”, Nathan Spataro, Max Kaye, Daithi O Gliasain.
+"members", Nathan Spataro, Max Kaye, Daithi O Gliasain.
 
 Membership Criteria
 -------------------
@@ -86,7 +86,7 @@ previous ten years. \* (ii) Flux QLD membership will terminate should
 any member be convicted of a disqualifying electoral offense.
 
 Queensland electors may join Flux QLD by joining the federal Flux party.
-Membership applications are submitted through Flux AUS’s website, at
+Membership applications are submitted through Flux AUS's website, at
 https://voteflux.org; members may opt out of inclusion of state or
 federal membership through the website membership portal. Membership to
 Flux QLD is automatic for qualified applicants registering for Flux AUS.
@@ -94,7 +94,7 @@ Each member is required to provide their name, address, and date of
 birth such that it matches the electoral roll. Email address is a
 required contact detail for party correspondence. Phone number is
 optional. Membership is free, there is only one category of membership,
-and members are always referred to as ‘members’.
+and members are always referred to as 'members'.
 
 Elected candidates that are members of Flux QLD are not permitted to be
 members of other political parties. Should a Flux candidate find
@@ -104,7 +104,7 @@ so as to retain only one party affiliation.
 Members may be expelled from the party when it is agreed upon
 unanimously by the Leadership, or when they have been convicted of a
 disqualifying electoral offense, as defined in the Electoral Act 1992,
-ins 2002 No. 8 s 5(1). Members may be suspended from the party only in
+ins 2002 No. 8 s 5(1). Members may be suspended from the party only in
 the case it is agreed upon unanimously by the Leadership.
 
 Structure of Flux QLD and Office Bearers
@@ -134,7 +134,7 @@ Official Roles. The Secretary, and Deputy Registered Officer are
 ratified by the party Leader, or Deputy Leader in the Leaders absence.
 The Secretary for Flux QLD is responsible for ratifying the position of
 Registered Officer and registered Party Agent for Flux QLD. (The
-Registered Officer ratifies the Deputy Registered Officer’s Role).
+Registered Officer ratifies the Deputy Registered Officer's Role).
 Members fulfilling the positions of Secretary, Registered Officer,
 Deputy Registered Officer and Party Agent are by default, also members
 of the Flux QLD ‘Steering Committee’.
@@ -158,13 +158,13 @@ Initially the roles will be filled as per the below:
 -  Registered Officer: Daryl Killin
 -  Deputy Registered Officer: open - nominations for 2018
 -  Party Agent: as per constitution (line 148), Party Agent role is
-   being fulfilled by Flux QLD Steer Co. Nominations are open for 2018.
+   being fulfilled by Flux QLD Steer Co. Nominations are open for 2018.
 -  Steering Committee Chair: nominations for 2018
 -  Invited Board Member: Brent Abel
 
 Members may occupy more than one position, not all roles must be filled
 by Flux QLD members, though three unique persons from Flux QLD must be
-named. When the party’s application to the Electoral Commission
+named. When the party's application to the Electoral Commission
 Queensland (ECQ) is successful this constitution comes into effect and
 is adopted by the party.
 
@@ -172,7 +172,7 @@ Party Structure
 ~~~~~~~~~~~~~~~
 
 The Flux Party Queensland is composed of individual Flux members who
-form the following bodies “The Leadership”, the Flux QLD Steering
+form the following bodies "The Leadership", the Flux QLD Steering
 Committee and working groups. Typical working groups include Campaign
 Management, Fund-raising & Finance, Public Awareness and Engagement. The
 secretary performs head of operations role, the steering committee chair
@@ -181,7 +181,7 @@ The membership, terms of reference and duration of any other roles or
 working groups is established by the Steering Committee by quorum.
 
 The Flux Party Queensland is comprised of individual Flux members who
-form the following bodies; “The Leadership”, the Flux QLD Steering
+form the following bodies; "The Leadership", the Flux QLD Steering
 Committee, and working groups.
 
 The Leadership
@@ -200,7 +200,7 @@ be filled by:
 
 The conditions and rules surrounding the position of Leader are
 identical to that of the federal Flux party, as noted in their
-constitution in the section titled “The Leader”. An update to this
+constitution in the section titled "The Leader". An update to this
 position in the federal constitution is enacted in this party also. The
 initial term of the Leader is equal to the remaining time for the Leader
 in the federal party.
@@ -209,7 +209,7 @@ Deputy Leader
 ^^^^^^^^^^^^^
 
 This section is identical to the current federal Flux constitution
-titled “Deputy Leader”. The Deputy Leader of Flux QLD is identical at
+titled "Deputy Leader". The Deputy Leader of Flux QLD is identical at
 all times to the Deputy Leader of the federal Flux party.
 
 Secretary
@@ -223,7 +223,7 @@ the commencement of The Flux Party Queensland secretarial role and
 making application to change the party’s registered officer, and
 notifying the commission of the party agent’s appointment.
 
-Both the Leader and Deputy Leader may act on the Secretary’s behalf, and
+Both the Leader and Deputy Leader may act on the Secretary's behalf, and
 accept joint responsibility for carrying out the administration and
 correspondence of the party.
 
@@ -252,7 +252,7 @@ Registered Officers
    application of the party secretary.
 -  The Registered Officer signs off (and notifies the Electoral
    Commission Queensland) on the appointment of the Deputy Registered
-   Officer, who’s nomination is vetted in a majority vote by a quorum of
+   Officer, who's nomination is vetted in a majority vote by a quorum of
    Steering Committee members.
 
 Email to the registered officers can be sent to
@@ -298,7 +298,7 @@ Steering Committee Chair
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  The Steering Committee Chair facilitates information flow regarding
-   the operations and affairs of the Party’s aims and objectives. They
+   the operations and affairs of the Party's aims and objectives. They
    are responsible for relaying communication top-down and bottom-up
    regarding the opportunities and challenges facing the Party.
 -  The Steering Committee Chair is responsible for the performance of
@@ -358,12 +358,12 @@ Annual General Meeting
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The party is required to hold Annual General Meetings (AGMs) once per
-financial year at a time of the Leadership’s choosing. These AGMs may be
+financial year at a time of the Leadership's choosing. These AGMs may be
 chaired by the secretary of the federal Flux Party or the secretary of
 Flux QLD.
 
 This rules around AGMs (except those above) are identical in an ongoing
-basis to the section titled “Annual General Meeting” in the federal Flux
+basis to the section titled "Annual General Meeting" in the federal Flux
 constitution.
 
 At the time of writing this was:
@@ -394,10 +394,10 @@ entitled to handle assets. When handling financial instruments of the
 Flux QLD party, the Leadership must disclose the transaction to the Flux
 QLD Party Agent.
 
-Keeping of the party’s accounts
+Keeping of the party's accounts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Leadership are responsible for managing the party’s finances, and
+The Leadership are responsible for managing the party's finances, and
 the Flux AUS party Leader and Deputy Leader are jointly accountable to
 the Flux QLD Party Agent for assisting with financial disclosure.
 
@@ -444,12 +444,12 @@ Flux QLD will use an internal voting system to:
 -  Facilitate all Queensland electors to participate in the democratic
    process. Once a Flux QLD candidate is elected;
 -  Facilitate members participating in the democratic process.
--  Facilitate minor parties and independents’ productive participation
+-  Facilitate minor parties and independents' productive participation
    without winning a seat.
 
 The parameters and design choices of the system are left to the Leader,
 and not within the scope of this document. There is no requirement that
 the voting system for members is the same as the voting system for minor
-parties. This voting system may be provided by the federal Flux party’s
+parties. This voting system may be provided by the federal Flux party's
 voting system, though in this case participation for Queensland specific
 issues is restricted to Queensland electors.

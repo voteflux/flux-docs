@@ -9,12 +9,12 @@
 Introduction
 ------------
 
-This is the constitution for the WA political party named “The Flux
-Party — WA”, sometimes referred to as “Flux WA” or “The Party” in this
+This is the constitution for the WA political party named "The Flux
+Party — WA", sometimes referred to as "Flux WA" or "The Party" in this
 document. The registered abbreviation for the party at the time of
-registration is “Flux The System!”. It is a state party associated with
-the federal party “VOTEFLUX.ORG \| Upgrade Democracy!” with the
-abbreviation “Flux”. The term “Flux AUS” is used to refer to the federal
+registration is "Flux The System!". It is a state party associated with
+the federal party "VOTEFLUX.ORG \| Upgrade Democracy!" with the
+abbreviation "Flux". The term "Flux AUS" is used to refer to the federal
 Flux Party, not the state party.
 
 The Flux Party — WA is hereby established as an organisation.
@@ -31,7 +31,7 @@ party to the federal Flux party, and this is indicated in this document.
 
 This document is ratified when the federal Flux constitution is updated
 to reflect this fact. This will be recorded under the section titled
-“State and Territory Branches”. At the time of writing this link will
+"State and Territory Branches". At the time of writing this link will
 take an observer to said ratification:
 https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#state-and-territory-branches
 
@@ -60,7 +60,7 @@ Flux WA also adopts objectives of the federal Flux party where possible.
 Membership Criteria
 -------------------
 
-Flux WA’s membership criterion is:
+Flux WA's membership criterion is:
 
 -  Maintain a list of at least 500 members who are electors within the
    WA
@@ -76,10 +76,10 @@ no cost for membership. Each member is required to provide their name
 and address such that it matches the electoral roll. Other required
 details include methods of contact, an email address is required, a
 phone number is optional. Their membership application is to be
-submitted through Flux AUS’s website, at https://voteflux.org. Members
+submitted through Flux AUS's website, at https://voteflux.org. Members
 may resign or revoke their membership through the resignation feature on
-the member’s membership details page. There is only one category of
-membership, and members are always referred to as ‘members’.
+the member's membership details page. There is only one category of
+membership, and members are always referred to as 'members'.
 
 Members retain membership by retaining membership to the federal Flux
 party.
@@ -126,13 +126,13 @@ Initially the roles will be filled as per the below:
 
 The Leader and Deputy Leader of Flux WA are identical to the Leader and
 Deputy Leader of the federal Flux party at all times. Provided they do
-not change before Flux WA’s registration is successful the positions
+not change before Flux WA's registration is successful the positions
 will be filled by:
 
 -  Leader: Nathan Spataro
 -  Deputy Leader: Max Kaye
 
-When the party’s application to the Western Australian Electoral
+When the party's application to the Western Australian Electoral
 Commission (WAEC) is successful this constitution comes into effect and
 is adopted by the party.
 
@@ -143,7 +143,7 @@ The Secretary is responsible for the day-to-day running of The Party.
 They also have the responsibility for the carrying out of the
 administration, and for the conduct of the correspondence, of The Party.
 
-Both the Leader and Deputy Leader may act on the Secretary’s behalf, and
+Both the Leader and Deputy Leader may act on the Secretary's behalf, and
 accept joint responsibility for carrying out the administration and
 correspondence of the party.
 
@@ -166,7 +166,7 @@ As per the above, Nathan Spataro is the initial Leader.
 
 The conditions and rules surrounding the position of Leader are
 identical to that of the federal Flux party, as noted in their
-constitution in the section titled “The Leader”. An update to this
+constitution in the section titled "The Leader". An update to this
 position in the federal constitution is enacted in this party also. The
 initial term of the Leader is equal to the remaining time for the Leader
 in the federal party.
@@ -175,7 +175,7 @@ Deputy Leader
 ^^^^^^^^^^^^^
 
 This section is identical to the current federal Flux constitution
-titled “Deputy Leader”.
+titled "Deputy Leader".
 
 The Deputy Leader of Flux WA is identical at all times to the Deputy
 Leader of the federal Flux party.
@@ -216,12 +216,12 @@ Annual General Meeting
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The party is required to announce an Annual General Meetings (AGMs) once
-per calendar year at a time of the Leadership’s choosing. The AGM must
+per calendar year at a time of the Leadership's choosing. The AGM must
 occur within one month of the annoucement. These AGMs may be chaired by
 the secretary of the federal Flux Party or the secretary of Flux WA.
 
 This rules around AGMs (except those above) are identical in an ongoing
-basis to the section titled “Annual General Meeting” in the federal Flux
+basis to the section titled "Annual General Meeting" in the federal Flux
 constitution.
 
 At the time of writing this was:
@@ -250,10 +250,10 @@ always act within the interests of the party. At their discretion other
 party members may handle assets. The Leader and Deputy Leader are
 entitled to handle assets.
 
-Keeping of the party’s accounts
+Keeping of the party's accounts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Leadership are responsible for managing the party’s finances. A
+The Leadership are responsible for managing the party's finances. A
 quorum can authorize spending of funds. Funds should be used only for
 the purposes of furthering the objectives of the party, and there is no
 other restriction on what funds may be spent on (except anything
@@ -284,12 +284,12 @@ Flux WA will use an internal voting system to
 -  Facilitate all WA electors participating in the democratic process
    once a Flux WA candidate is elected
 -  Facilitate members participating in the democratic process
--  Facilitate minor parties and independents’ productive participation
+-  Facilitate minor parties and independents' productive participation
    without winning a seat
 
 The parameters and design choices of the system are left to the Leader,
 and not within the scope of this document. There is no requirement that
 the voting system for members is the same as the voting system for minor
-parties. This voting system may be provided by the federal Flux party’s
+parties. This voting system may be provided by the federal Flux party's
 voting system, though in this case participation for WA specific issues
 is restricted to WA electors.

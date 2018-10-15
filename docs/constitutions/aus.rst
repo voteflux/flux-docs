@@ -9,8 +9,8 @@
 Introduction
 ------------
 
-This is the constitution for the political party known as “VOTEFLUX.ORG
-\| Upgrade Democracy!”, sometimes referred to as “Flux” or “the party”
+This is the constitution for the political party known as "VOTEFLUX.ORG
+\| Upgrade Democracy!", sometimes referred to as "Flux" or "the party"
 in this document.
 
 Flux is hereby established as an organization.
@@ -43,7 +43,7 @@ Further objectives:
 Membership Criteria
 -------------------
 
-Flux’s membership criteria are:
+Flux's membership criteria are:
 
 -  Maintain a list of at least 500 members who are on the Australian
    electoral roll
@@ -56,16 +56,16 @@ All Australian voters are eligible for membership. There is no cost for
 membership. Each member is required to provide their name and address
 such that it matches the electoral roll. Other required details include
 methods of contact, an email address is required, a phone number is
-optional. Their membership application is to be submitted through Flux’s
+optional. Their membership application is to be submitted through Flux's
 website, at https://voteflux.org. Members may resign or revoke their
-membership through the resignation feature on the member’s membership
+membership through the resignation feature on the member's membership
 details page.
 
 To retain membership, after at least one Flux parliamentarian has been
 elected, members will need to (once a year) confirm their details are up
 to date through an email notification. Each time this happens their
 membership is valid for 1 year and they are granted voting rights within
-Flux’s internal voting system.
+Flux's internal voting system.
 
 There are no obligations outside of maintaining membership.
 
@@ -115,7 +115,7 @@ Initially the roles will be filled as per the below:
 -  Treasurer: Jonathon Miller
 -  Party Agent: Jonathon Miller
 
-When the party’s application to the AEC is successful this constitution
+When the party's application to the AEC is successful this constitution
 comes into effect and is adopted by the party.
 
 The Leadership
@@ -179,7 +179,7 @@ Annual General Meeting
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The party is required to announce the date of the Annual General Meeting
-(AGM) once per calendar year at a time of the Leadership’s choosing, and
+(AGM) once per calendar year at a time of the Leadership's choosing, and
 hold the AGM within one month of the annoucement.
 
 An AGM is to be chaired by the secretary and follow an agenda. The
@@ -204,10 +204,10 @@ Handling of assets is the responsibility of the Treasurer. At their
 discretion other party members may handle assets. The Leader and Deputy
 Leader are entitled to handle assets.
 
-Keeping of the party’s accounts
+Keeping of the party's accounts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Treasurer is responsible for managing the party’s finances. A quorum
+The Treasurer is responsible for managing the party's finances. A quorum
 can authorize spending of funds. Funds should be used only for the
 purposes of furthering the objectives of the party, and there is no
 other restriction on what funds may be spent on (except anything
@@ -235,7 +235,7 @@ State registered parties and branches may be created with the oversight
 of the Leadership. Members may opt-out of helping to form the state
 branch or party if they wish.
 
-State and Territory branches may use the name “Flux” and associated
+State and Territory branches may use the name "Flux" and associated
 branding elements when they have been created as a subsection here, as
 is the case with ``ACT Branch`` below.
 
@@ -286,7 +286,7 @@ Internal Voting System
 Flux will use an internal voting system to
 
 -  Facilitate members participating in the parliamentary process
--  Facilitate minor parties and independents’ productive participation
+-  Facilitate minor parties and independents' productive participation
    without winning a seat
 
 The parameters and design choices of the system are left to the Leader,

@@ -9,8 +9,8 @@
 Introduction
 ------------
 
-This is the constitution for the political party known as “The Flux
-Party - Victoria”, (“Flux Victoria” or “the Party”).
+This is the constitution for the political party known as "The Flux
+Party - Victoria", (“Flux Victoria” or “the Party").
 
 Flux Victoria is hereby established as an organization.
 
@@ -55,7 +55,7 @@ intended to be binding on any person.
 Membership Criteria
 -------------------
 
-Flux Victoria’s membership criteria are:
+Flux Victoria's membership criteria are:
 
 -  Maintain a list of at least 500 members who are on the Australian
    electoral roll, and whose address registered for this purpose is
@@ -74,7 +74,7 @@ maintain this membership). A phone number is optional.
 
 Membership applications are to be submitted through the Flux AUS
 website, at https://voteflux.org. Members may resign or revoke their
-membership through the resignation feature on the member’s membership
+membership through the resignation feature on the member's membership
 details page.
 
 After at least one parliamentarian has been elected to either Flux AUS
@@ -208,7 +208,7 @@ Initially the roles will be filled as per the below:
 -  Digital & Social Media Coordinator: Warwick Humphrey
 -  Committee Members: Ben Rose
 
-If and when the Party’s application to the VEC is successful, this
+If and when the Party's application to the VEC is successful, this
 constitution comes into effect and is adopted by the Party.
 
 The Steering Committee
@@ -313,10 +313,10 @@ discretion of the Treasurer, other Office Bearers may handle assets. The
 Leadership may also handle assets, but must inform the Treasurer, and
 must do so as soon as reasonably practical.
 
-Keeping of the Party’s accounts
+Keeping of the Party's accounts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Treasurer is responsible for managing the Party’s finances. Funds
+The Treasurer is responsible for managing the Party's finances. Funds
 should be used only for the purposes of furthering the objectives of the
 Party; however, there is no other restriction on what funds may be spent
 on (except as prohibited by relevant law).
